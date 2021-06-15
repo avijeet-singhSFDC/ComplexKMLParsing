@@ -1,0 +1,20 @@
+{
+  "name": "kmlparsingforsfs",
+  "version": "1.0.0",
+  "description": "Library Used to Parse KML files generated from Google Maps and feed into a csv format ready for import by SFS (Salesforce Field Service)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avijeet Singh",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "dotenv": "^10.0.0",
+    "fs": "0.0.1-security",
+    "randomcolor": "^0.6.2",
+    "xml-parse": "^0.4.0",
+    "xml2js": "^0.4.23",
+    "xmlbuilder": "^15.1.1"
+  }
+}
