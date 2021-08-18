@@ -1,0 +1,1599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Zones - South</name>
+    <Style id="poly-097138-2000-76-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-097138-2000-76-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-097138-2000-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-097138-2000-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-097138-2000-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-1A237E-2000-76-normal">
+      <LineStyle>
+        <color>ff7e231a</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c7e231a</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-1A237E-2000-76-highlight">
+      <LineStyle>
+        <color>ff7e231a</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c7e231a</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-1A237E-2000-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-1A237E-2000-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-1A237E-2000-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-C2185B-2000-76-normal">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c5b18c2</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-C2185B-2000-76-highlight">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c5b18c2</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-C2185B-2000-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-C2185B-2000-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-C2185B-2000-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-E65100-2000-76-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c0051e6</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-E65100-2000-76-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c0051e6</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-E65100-2000-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-E65100-2000-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-E65100-2000-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FFD600-2000-76-normal">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c00d6ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-FFD600-2000-76-highlight">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c00d6ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-FFD600-2000-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FFD600-2000-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FFD600-2000-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Big Pine Key</name>
+      <description><![CDATA[Service Area: Florida Keys<br>FSS: Carmen Nobregas]]></description>
+      <styleUrl>#poly-E65100-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>Florida Keys</value>
+        </Data>
+        <Data name="FSS">
+          <value>Carmen Nobregas</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -80.7686378,24.8825562,0
+              -80.830536,24.854665,0
+              -80.963058,24.801695,0
+              -81.055756,24.753691,0
+              -81.139526,24.72937,0
+              -81.182785,24.742466,0
+              -81.193771,24.787981,0
+              -81.270504,24.802474,0
+              -81.314106,24.783618,0
+              -81.357536,24.78767,0
+              -81.426201,24.817744,0
+              -81.467056,24.820081,0
+              -81.452293,24.787358,0
+              -81.437187,24.742778,0
+              -81.408005,24.72095,0
+              -81.390495,24.690696,0
+              -81.378136,24.661058,0
+              -81.382599,24.640464,0
+              -81.434441,24.612063,0
+              -81.375046,24.607693,0
+              -81.186218,24.657626,0
+              -81.071548,24.672602,0
+              -80.90332,24.734983,0
+              -80.7353372,24.8447097,0
+              -80.7594664,24.871174,0
+              -80.7686378,24.8825562,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Cooper City</name>
+      <description><![CDATA[Service Area: Hollywood<br>FSS: Joe Clendennin]]></description>
+      <styleUrl>#poly-C2185B-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>Hollywood</value>
+        </Data>
+        <Data name="FSS">
+          <value>Joe Clendennin</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -80.311432,26.029176,0
+              -80.263367,26.030255,0
+              -80.263539,26.035962,0
+              -80.26062,26.039202,0
+              -80.258045,26.043057,0
+              -80.258904,26.066961,0
+              -80.263195,26.070353,0
+              -80.264569,26.10273,0
+              -80.262337,26.106738,0
+              -80.25959,26.10982,0
+              -80.259075,26.113828,0
+              -80.262337,26.117527,0
+              -80.263195,26.120764,0
+              -80.312805,26.121226,0
+              -80.312291,26.114136,0
+              -80.328942,26.11876,0
+              -80.328598,26.102267,0
+              -80.353146,26.102421,0
+              -80.351086,26.034883,0
+              -80.349884,26.02933,0
+              -80.338297,26.007584,0
+              -80.310574,26.007579,0
+              -80.311432,26.029176,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Davie</name>
+      <description><![CDATA[Service Area: Hollywood<br>FSS: Joe Clendennin]]></description>
+      <styleUrl>#poly-C2185B-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>Hollywood</value>
+        </Data>
+        <Data name="FSS">
+          <value>Joe Clendennin</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -80.2644829,26.1026529,0
+              -80.263109,26.0702759,0
+              -80.258818,26.0668839,0
+              -80.257959,26.0429799,0
+              -80.260534,26.0391249,0
+              -80.263453,26.0358849,0
+              -80.263281,26.0301779,0
+              -80.247317,26.0307949,0
+              -80.206804,26.0315669,0
+              -80.207491,26.0462189,0
+              -80.206118,26.0519249,0
+              -80.206289,26.0628749,0
+              -80.206633,26.0671919,0
+              -80.201483,26.0858489,0
+              -80.199595,26.0903199,0
+              -80.200625,26.1209949,0
+              -80.263109,26.1206869,0
+              -80.262251,26.1174499,0
+              -80.258989,26.1137509,0
+              -80.259504,26.1097429,0
+              -80.262251,26.1066609,0
+              -80.2644829,26.1026529,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Delray Beach / Boynton Beach</name>
+      <description><![CDATA[Service Area: West Palm Beach<br>FSS: Sem Peralta]]></description>
+      <styleUrl>#poly-097138-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>West Palm Beach</value>
+        </Data>
+        <Data name="FSS">
+          <value>Sem Peralta</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -80.044154,26.486092,0
+              -80.022971,26.542005,0
+              -80.02407,26.571947,0
+              -80.068358,26.573175,0
+              -80.173073,26.573175,0
+              -80.184746,26.567341,0
+              -80.195389,26.567341,0
+              -80.199509,26.570719,0
+              -80.218048,26.571333,0
+              -80.247511,26.563439,0
+              -80.232112,26.541155,0
+              -80.221596,26.513178,0
+              -80.220794,26.483634,0
+              -80.220188,26.468035,0
+              -80.235772,26.409198,0
+              -80.235557,26.385411,0
+              -80.225772,26.392792,0
+              -80.212983,26.392715,0
+              -80.209808,26.393715,0
+              -80.204229,26.39433,0
+              -80.100803,26.393946,0
+              -80.096425,26.394484,0
+              -80.056342,26.39433,0
+              -80.044669,26.429076,0
+              -80.044154,26.486092,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Ft. Lauderdale - Central</name>
+      <description><![CDATA[Service Area: Hollywood<br>FSS: Joe Clendennin]]></description>
+      <styleUrl>#poly-C2185B-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>Hollywood</value>
+        </Data>
+        <Data name="FSS">
+          <value>Joe Clendennin</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -80.20174,26.08608,0
+              -80.19556,26.083767,0
+              -80.18629,26.084384,0
+              -80.1511,26.092401,0
+              -80.09737,26.094251,0
+              -80.096512,26.138179,0
+              -80.201225,26.135868,0
+              -80.200882,26.121226,0
+              -80.199852,26.090551,0
+              -80.20174,26.08608,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Ft. Lauderdale - North</name>
+      <description><![CDATA[Service Area: Hollywood<br>FSS: Joe Clendennin]]></description>
+      <styleUrl>#poly-C2185B-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>Hollywood</value>
+        </Data>
+        <Data name="FSS">
+          <value>Joe Clendennin</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -80.2032003,26.1866277,0
+              -80.2020413,26.1363217,0
+              -80.0973278,26.1386317,0
+              -80.0921777,26.1904777,0
+              -80.1780942,26.1886297,0
+              -80.1830292,26.1868577,0
+              -80.2032003,26.1866277,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Ft. Lauderdale - South</name>
+      <description><![CDATA[Service Area: Hollywood<br>FSS: Joe Clendennin]]></description>
+      <styleUrl>#poly-C2185B-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>Hollywood</value>
+        </Data>
+        <Data name="FSS">
+          <value>Joe Clendennin</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -80.207576,26.063106,0
+              -80.207405,26.052156,0
+              -80.208778,26.04645,0
+              -80.208091,26.031798,0
+              -80.1087,26.034111,0
+              -80.0984,26.094251,0
+              -80.15213,26.092401,0
+              -80.18732,26.084384,0
+              -80.19659,26.083767,0
+              -80.20277,26.08608,0
+              -80.20792,26.067423,0
+              -80.207576,26.063106,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Ft. Lauderdale - West</name>
+      <description><![CDATA[Service Area: Hollywood<br>FSS: Joe Clendennin]]></description>
+      <styleUrl>#poly-C2185B-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>Hollywood</value>
+        </Data>
+        <Data name="FSS">
+          <value>Joe Clendennin</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -80.200024,26.1210719,0
+              -80.200367,26.1357139,0
+              -80.201526,26.1860199,0
+              -80.204358,26.1861739,0
+              -80.2115249,26.1939909,0
+              -80.2928918,26.1936439,0
+              -80.3416438,26.1466549,0
+              -80.3409578,26.1213809,0
+              -80.3116038,26.1141359,0
+              -80.3121178,26.1212259,0
+              -80.2625079,26.1207639,0
+              -80.200024,26.1210719,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Hialeah - North</name>
+      <description><![CDATA[Service Area: South Dade<br>FSS: Carmen Nobregas]]></description>
+      <styleUrl>#poly-1A237E-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>South Dade</value>
+        </Data>
+        <Data name="FSS">
+          <value>Carmen Nobregas</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -80.241073,25.830874,0
+              -80.241737,25.84572,0
+              -80.243004,25.882797,0
+              -80.251711,25.882791,0
+              -80.259387,25.883403,0
+              -80.266843,25.885244,0
+              -80.274434,25.889098,0
+              -80.277218,25.892643,0
+              -80.282786,25.896026,0
+              -80.292122,25.89876,0
+              -80.308172,25.898992,0
+              -80.376396,25.898591,0
+              -80.379217,25.896328,0
+              -80.322483,25.853855,0
+              -80.239736,25.792125,0
+              -80.240211,25.808892,0
+              -80.241073,25.830874,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Hialeah - South</name>
+      <description><![CDATA[Service Area: South Dade<br>FSS: Carmen Nobregas]]></description>
+      <styleUrl>#poly-1A237E-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>South Dade</value>
+        </Data>
+        <Data name="FSS">
+          <value>Carmen Nobregas</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -80.4306216,25.9501627,0
+              -80.4846963,25.8921117,0
+              -80.4811763,25.7605807,0
+              -80.4169306,25.7604267,0
+              -80.4007207,25.7606007,0
+              -80.3851968,25.7605427,0
+              -80.3683309,25.7608447,0
+              -80.352291,25.7611157,0
+              -80.3360791,25.7614917,0
+              -80.3207591,25.7620107,0
+              -80.3038072,25.7626307,0
+              -80.2877133,25.7630927,0
+              -80.2634234,25.7640207,0
+              -80.2468375,25.7644457,0
+              -80.2304866,25.7649097,0
+              -80.2144697,25.7654357,0
+              -80.1972698,25.7658047,0
+              -80.1973938,25.7682967,0
+              -80.1992228,25.7701017,0
+              -80.2008958,25.7732827,0
+              -80.2035997,25.7762067,0
+              -80.2114097,25.7808157,0
+              -80.2397286,25.7919227,0
+              -80.3224751,25.8536527,0
+              -80.4089927,25.9172807,0
+              -80.4292486,25.9328737,0
+              -80.4302786,25.9350347,0
+              -80.4306216,25.9501627,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Hollywood - East</name>
+      <description><![CDATA[Service Area: Hollywood<br>FSS: Joe Clendennin]]></description>
+      <styleUrl>#poly-C2185B-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>Hollywood</value>
+        </Data>
+        <Data name="FSS">
+          <value>Joe Clendennin</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -80.1093445,26.0111888,0
+              -80.1086585,26.0334018,0
+              -80.208049,26.0310888,0
+              -80.2485618,26.0303168,0
+              -80.2466728,25.9809478,0
+              -80.2188639,25.9812568,0
+              -80.2157739,25.9840338,0
+              -80.200668,25.9840338,0
+              -80.198951,25.9834168,0
+              -80.1132925,25.9855768,0
+              -80.1093445,26.0111888,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Homestead - North</name>
+      <description><![CDATA[Service Area: South Dade<br>FSS: Carmen Nobregas]]></description>
+      <styleUrl>#poly-1A237E-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>South Dade</value>
+        </Data>
+        <Data name="FSS">
+          <value>Carmen Nobregas</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -80.4198548,25.5094457,0
+                -80.4203468,25.5078257,0
+                -80.4198558,25.5091357,0
+                -80.4198488,25.5103937,0
+                -80.4198548,25.5094457,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -80.4198488,25.5103937,0
+                -80.4195108,25.5124837,0
+                -80.4198438,25.5111387,0
+                -80.4198488,25.5103937,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -80.4138479,25.5137487,0
+                -80.4137769,25.5178057,0
+                -80.3193086,25.5193007,0
+                -80.2844687,25.5812817,0
+                -80.2982147,25.5997787,0
+                -80.3172995,25.5993187,0
+                -80.3553853,25.5983627,0
+                -80.4145879,25.5963777,0
+                -80.4799054,25.5942097,0
+                -80.5296871,25.5939007,0
+                -80.5293431,25.5784177,0
+                -80.5614439,25.5500787,0
+                -80.5679669,25.5494597,0
+                -80.5758638,25.5259937,0
+                -80.5753488,25.4978747,0
+                -80.5612729,25.4979467,0
+                -80.5612729,25.5054667,0
+                -80.5120083,25.5057947,0
+                -80.4627446,25.5059497,0
+                -80.4462056,25.5060007,0
+                -80.4381077,25.5061037,0
+                -80.4301808,25.5062047,0
+                -80.4228498,25.5063767,0
+                -80.4214388,25.5068657,0
+                -80.4203468,25.5078257,0
+                -80.4198558,25.5091357,0
+                -80.4198488,25.5103937,0
+                -80.4198438,25.5111387,0
+                -80.4195118,25.5121737,0
+                -80.4184928,25.5132087,0
+                -80.4170338,25.5137687,0
+                -80.4138479,25.5137487,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Homestead - South</name>
+      <description><![CDATA[Service Area: South Dade<br>FSS: Carmen Nobregas]]></description>
+      <styleUrl>#poly-1A237E-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>South Dade</value>
+        </Data>
+        <Data name="FSS">
+          <value>Carmen Nobregas</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -80.558968,25.387147,0
+              -80.524635,25.36109,0
+              -80.460777,25.36016,0
+              -80.474854,25.426222,0
+              -80.47554,25.447615,0
+              -80.458717,25.448235,0
+              -80.452881,25.451645,0
+              -80.436401,25.450405,0
+              -80.430908,25.447925,0
+              -80.416145,25.447925,0
+              -80.347824,25.447925,0
+              -80.319328,25.446995,0
+              -80.318033,25.519562,0
+              -80.412502,25.518067,0
+              -80.412572,25.51432,0
+              -80.415758,25.51434,0
+              -80.417217,25.51378,0
+              -80.418236,25.512745,0
+              -80.418569,25.5114,0
+              -80.41858,25.509707,0
+              -80.419071,25.508397,0
+              -80.420163,25.507437,0
+              -80.421574,25.506948,0
+              -80.428905,25.506776,0
+              -80.44493,25.506572,0
+              -80.461469,25.506521,0
+              -80.559998,25.506038,0
+              -80.559998,25.498518,0
+              -80.559998,25.494407,0
+              -80.562744,25.492234,0
+              -80.562315,25.454264,0
+              -80.559654,25.451166,0
+              -80.558968,25.387147,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Jupiter / Palm Beach Gardens</name>
+      <description><![CDATA[Service Area: West Palm Beach<br>FSS: Sem Peralta]]></description>
+      <styleUrl>#poly-097138-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>West Palm Beach</value>
+        </Data>
+        <Data name="FSS">
+          <value>Sem Peralta</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -80.1136698,26.7799419,0
+              -80.1146998,26.7609369,0
+              -80.0824276,26.7590979,0
+              -80.0772775,26.7544999,0
+              -80.0453483,26.7529669,0
+              -80.0443183,26.7679879,0
+              -80.0401982,26.7738119,0
+              -80.0226881,26.7738119,0
+              -80.0223451,26.7975639,0
+              -80.0520433,26.9213039,0
+              -80.0775354,27.0086989,0
+              -80.1490349,27.1911039,0
+              -80.1715201,27.2274649,0
+              -80.2148655,27.2119259,0
+              -80.2531468,27.2073459,0
+              -80.2595838,27.2013159,0
+              -80.2635099,27.2023839,0
+              -80.2653769,27.2101709,0
+              -80.269798,27.2104759,0
+              -80.280784,27.2070409,0
+              -80.2838741,27.2037969,0
+              -80.287308,27.2017739,0
+              -80.2907401,27.2010869,0
+              -80.3128853,27.2058199,0
+              -80.3298084,27.2065899,0
+              -80.399047,27.2069159,0
+              -80.396781,27.1825419,0
+              -80.3886739,27.1624969,0
+              -80.6739722,27.163197,0
+              -80.6752733,27.159945,0
+              -80.6795813,27.162796,0
+              -80.6940055,27.148883,0
+              -80.7136306,27.136988,0
+              -80.7450449,27.12912,0
+              -80.8126804,27.10284,0
+              -80.9500105,26.987866,0
+              -80.631666,26.865751,0
+              -80.4462855,26.7264359,0
+              -80.4421195,26.7264229,0
+              -80.4367754,26.7251509,0
+              -80.390159,26.6904839,0
+              -80.385781,26.6883239,0
+              -80.3804579,26.6866109,0
+              -80.3617658,26.6858829,0
+              -80.3076484,26.6836599,0
+              -80.3052453,26.7649219,0
+              -80.3038724,26.7710529,0
+              -80.2970053,26.7738119,0
+              -80.2928852,26.7799419,0
+              -80.2918552,26.8142649,0
+              -80.1514351,26.8115069,0
+              -80.1177899,26.7897499,0
+              -80.1136698,26.7799419,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Kendall - Central</name>
+      <description><![CDATA[Service Area: South Dade<br>FSS: Carmen Nobregas]]></description>
+      <styleUrl>#poly-1A237E-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>South Dade</value>
+        </Data>
+        <Data name="FSS">
+          <value>Carmen Nobregas</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -80.354079,25.598667,0
+              -80.34685,25.614695,0
+              -80.346034,25.617971,0
+              -80.330608,25.651416,0
+              -80.318054,25.678378,0
+              -80.316966,25.688561,0
+              -80.317426,25.703115,0
+              -80.318342,25.717799,0
+              -80.318672,25.722859,0
+              -80.318316,25.726296,0
+              -80.318418,25.732937,0
+              -80.319534,25.738861,0
+              -80.319942,25.748167,0
+              -80.31999,25.754035,0
+              -80.320896,25.758666,0
+              -80.321078,25.760507,0
+              -80.320842,25.762527,0
+              -80.336164,25.762008,0
+              -80.352375,25.761632,0
+              -80.368414,25.761361,0
+              -80.38528,25.761059,0
+              -80.400805,25.761117,0
+              -80.417015,25.760943,0
+              -80.414227,25.698815,0
+              -80.416801,25.684893,0
+              -80.413283,25.596682,0
+              -80.354079,25.598667,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Kendall - East</name>
+      <description><![CDATA[Service Area: South Dade<br>FSS: Carmen Nobregas]]></description>
+      <styleUrl>#poly-1A237E-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>South Dade</value>
+        </Data>
+        <Data name="FSS">
+          <value>Carmen Nobregas</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -80.315857,25.599659,0
+              -80.296773,25.600119,0
+              -80.26798,25.63293,0
+              -80.245004,25.690498,0
+              -80.190071,25.68168,0
+              -80.16106,25.655533,0
+              -80.142006,25.669458,0
+              -80.139774,25.708751,0
+              -80.137543,25.750195,0
+              -80.145782,25.757925,0
+              -80.156425,25.761017,0
+              -80.172905,25.761636,0
+              -80.181145,25.763491,0
+              -80.181754,25.770678,0
+              -80.189787,25.770021,0
+              -80.192283,25.770446,0
+              -80.193328,25.76975,0
+              -80.195103,25.768821,0
+              -80.19734,25.768849,0
+              -80.197216,25.766357,0
+              -80.214416,25.765988,0
+              -80.230434,25.765462,0
+              -80.246784,25.764998,0
+              -80.263371,25.764573,0
+              -80.287661,25.763645,0
+              -80.303755,25.763183,0
+              -80.320706,25.762563,0
+              -80.320942,25.760543,0
+              -80.32076,25.758702,0
+              -80.319853,25.754071,0
+              -80.319805,25.748203,0
+              -80.319397,25.738897,0
+              -80.318281,25.732973,0
+              -80.318179,25.726332,0
+              -80.318536,25.722895,0
+              -80.318206,25.717835,0
+              -80.317289,25.703151,0
+              -80.31683,25.688597,0
+              -80.317917,25.678414,0
+              -80.330472,25.651452,0
+              -80.345897,25.618007,0
+              -80.346713,25.614731,0
+              -80.353943,25.598703,0
+              -80.315857,25.599659,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Kendall - West</name>
+      <description><![CDATA[Service Area: South Dade<br>FSS: Carmen Nobregas]]></description>
+      <styleUrl>#poly-1A237E-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>South Dade</value>
+        </Data>
+        <Data name="FSS">
+          <value>Carmen Nobregas</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -80.413303,25.596707,0
+              -80.416822,25.684918,0
+              -80.414247,25.69884,0
+              -80.417036,25.760968,0
+              -80.481281,25.761122,0
+              -80.4848,25.892653,0
+              -80.866949,25.889862,0
+              -80.864858,25.760078,0
+              -80.575094,25.761006,0
+              -80.57475,25.59361,0
+              -80.528402,25.59423,0
+              -80.47862,25.594539,0
+              -80.413303,25.596707,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Key West</name>
+      <description><![CDATA[Service Area: Florida Keys<br>FSS: Carmen Nobregas]]></description>
+      <styleUrl>#poly-E65100-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>Florida Keys</value>
+        </Data>
+        <Data name="FSS">
+          <value>Carmen Nobregas</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -81.467056,24.820081,0
+              -81.573486,24.777383,0
+              -81.65863,24.736542,0
+              -81.747551,24.684457,0
+              -81.78978,24.652946,0
+              -81.857758,24.633286,0
+              -81.835785,24.556804,0
+              -81.825142,24.532132,0
+              -81.705666,24.525573,0
+              -81.604385,24.564298,0
+              -81.525421,24.587402,0
+              -81.46843,24.600826,0
+              -81.434441,24.612063,0
+              -81.382599,24.640464,0
+              -81.378136,24.661058,0
+              -81.390495,24.690696,0
+              -81.408005,24.72095,0
+              -81.437187,24.742778,0
+              -81.452293,24.787358,0
+              -81.467056,24.820081,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Lake Worth / West Palm Beach</name>
+      <description><![CDATA[Service Area: West Palm Beach<br>FSS: Sem Peralta]]></description>
+      <styleUrl>#poly-097138-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>West Palm Beach</value>
+        </Data>
+        <Data name="FSS">
+          <value>Sem Peralta</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -80.0227813,26.5724835,0
+              -80.0214073,26.6266665,0
+              -80.0227813,26.6774505,0
+              -80.0234683,26.7734305,0
+              -80.0409784,26.7734305,0
+              -80.0450984,26.7676065,0
+              -80.0461284,26.7525855,0
+              -80.0780576,26.7541185,0
+              -80.0832076,26.7587165,0
+              -80.1154798,26.7605555,0
+              -80.1144498,26.7795605,0
+              -80.1185698,26.7893685,0
+              -80.152215,26.8111255,0
+              -80.2926347,26.8138835,0
+              -80.2936647,26.7795605,0
+              -80.2977847,26.7734305,0
+              -80.3046517,26.7706715,0
+              -80.3060247,26.7645405,0
+              -80.3084278,26.6832785,0
+              -80.3615159,26.6861155,0
+              -80.3618159,26.6805945,0
+              -80.3451379,26.6484705,0
+              -80.3315588,26.6346785,0
+              -80.2767886,26.6024805,0
+              -80.2462474,26.5646265,0
+              -80.2167603,26.5718695,0
+              -80.1982212,26.5712555,0
+              -80.1941011,26.5678775,0
+              -80.1834581,26.5678775,0
+              -80.171785,26.5737115,0
+              -80.0670696,26.5737115,0
+              -80.0227813,26.5724835,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Miami - Beach</name>
+      <description><![CDATA[Service Area: Hollywood<br>FSS: Joe Clendennin]]></description>
+      <styleUrl>#poly-FFD600-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>Hollywood</value>
+        </Data>
+        <Data name="FSS">
+          <value>Joe Clendennin</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -80.1284405,25.9012334,0
+              -80.1370235,25.8953654,0
+              -80.1562496,25.8774504,0
+              -80.1725617,25.8335734,0
+              -80.1813128,25.7838174,0
+              -80.1805487,25.7712174,0
+              -80.1799397,25.7640304,0
+              -80.1716997,25.7621754,0
+              -80.1552196,25.7615564,0
+              -80.1445766,25.7584644,0
+              -80.1363375,25.7507344,0
+              -80.1246645,25.7513524,0
+              -80.1116174,25.7890724,0
+              -80.1061244,25.8252354,0
+              -80.1071544,25.8650944,0
+              -80.1112744,25.9009244,0
+              -80.1284405,25.9012334,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Miami - North</name>
+      <description><![CDATA[Service Area: Hollywood<br>FSS: Joe Clendennin]]></description>
+      <styleUrl>#poly-C2185B-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>Hollywood</value>
+        </Data>
+        <Data name="FSS">
+          <value>Joe Clendennin</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -80.1134631,25.9876601,0
+              -80.199123,25.9855001,0
+              -80.20084,25.9861171,0
+              -80.2159463,25.9861171,0
+              -80.2190363,25.9833401,0
+              -80.2472746,25.9829161,0
+              -80.2441846,25.9052511,0
+              -80.2274484,25.9134151,0
+              -80.2058181,25.9290091,0
+              -80.1821288,25.9302441,0
+              -80.1769788,25.9265391,0
+              -80.1536325,25.9276201,0
+              -80.1484825,25.9270021,0
+              -80.1385264,25.9279281,0
+              -80.1314883,25.9313251,0
+              -80.1168971,25.9317881,0
+              -80.1120901,25.9574121,0
+              -80.1134631,25.9876601,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Miami - South</name>
+      <description><![CDATA[Service Area: Hollywood<br>FSS: Joe Clendennin]]></description>
+      <styleUrl>#poly-C2185B-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>Hollywood</value>
+        </Data>
+        <Data name="FSS">
+          <value>Joe Clendennin</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -80.173742,25.833071,0
+              -80.15743,25.876948,0
+              -80.138204,25.894863,0
+              -80.129621,25.900731,0
+              -80.112455,25.900422,0
+              -80.116747,25.93053,0
+              -80.131338,25.930067,0
+              -80.138376,25.92667,0
+              -80.148332,25.925744,0
+              -80.153482,25.926362,0
+              -80.176828,25.925281,0
+              -80.181978,25.928986,0
+              -80.205667,25.927751,0
+              -80.227297,25.912157,0
+              -80.243669,25.903742,0
+              -80.243347,25.897314,0
+              -80.242156,25.868245,0
+              -80.241651,25.846107,0
+              -80.240987,25.831261,0
+              -80.240125,25.809279,0
+              -80.23965,25.792512,0
+              -80.227292,25.786757,0
+              -80.21133,25.781405,0
+              -80.20352,25.776796,0
+              -80.200817,25.773872,0
+              -80.199144,25.770691,0
+              -80.197315,25.768886,0
+              -80.195078,25.768858,0
+              -80.193303,25.769787,0
+              -80.192258,25.770483,0
+              -80.189762,25.770058,0
+              -80.181729,25.770715,0
+              -80.182493,25.783315,0
+              -80.173742,25.833071,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Pembrook Pines - East</name>
+      <description><![CDATA[Service Area: Hollywood<br>FSS: Joe Clendennin]]></description>
+      <styleUrl>#poly-C2185B-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>Hollywood</value>
+        </Data>
+        <Data name="FSS">
+          <value>Joe Clendennin</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -80.3121626,26.0289032,0
+              -80.3113036,26.0073062,0
+              -80.3106606,25.9544922,0
+              -80.3065406,25.9492442,0
+              -80.3059826,25.9380142,0
+              -80.3090286,25.9326532,0
+              -80.3076566,25.8984512,0
+              -80.2916066,25.8982202,0
+              -80.2822707,25.8954862,0
+              -80.2767027,25.8921032,0
+              -80.2739187,25.8885572,0
+              -80.2663287,25.8847032,0
+              -80.2629207,25.8838802,0
+              -80.2588727,25.8828632,0
+              -80.2507847,25.8822102,0
+              -80.2424888,25.8822572,0
+              -80.2462438,25.9812302,0
+              -80.2481337,26.0305992,0
+              -80.2640977,26.0299822,0
+              -80.3121626,26.0289032,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Pembrook Pines - West</name>
+      <description><![CDATA[Service Area: Hollywood<br>FSS: Joe Clendennin]]></description>
+      <styleUrl>#poly-C2185B-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>Hollywood</value>
+        </Data>
+        <Data name="FSS">
+          <value>Joe Clendennin</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -80.4282408,25.931924,0
+              -80.3777523,25.894982,0
+              -80.3751023,25.897245,0
+              -80.30688,25.897646,0
+              -80.308424,25.93177,0
+              -80.305505,25.937018,0
+              -80.305677,25.948441,0
+              -80.309797,25.953689,0
+              -80.310827,26.00631,0
+              -80.3385487,26.006315,0
+              -80.4312837,26.006243,0
+              -80.4296137,25.949213,0
+              -80.4292708,25.934085,0
+              -80.4282408,25.931924,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Pompano Beach / Boca Raton</name>
+      <description><![CDATA[Service Area: West Palm Beach<br>FSS: Sem Peralta]]></description>
+      <styleUrl>#poly-097138-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>West Palm Beach</value>
+        </Data>
+        <Data name="FSS">
+          <value>Sem Peralta</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -80.0798599,26.2027368,0
+              -80.0696458,26.2326898,0
+              -80.0686588,26.3076178,0
+              -80.0562546,26.3530018,0
+              -80.0577996,26.3961418,0
+              -80.2044859,26.3961418,0
+              -80.210066,26.3955268,0
+              -80.213241,26.3945268,0
+              -80.2260303,26.3946038,0
+              -80.2362325,26.3871868,0
+              -80.2669089,26.3480668,0
+              -80.2663409,26.3361678,0
+              -80.2686369,26.3306778,0
+              -80.2766611,26.3261568,0
+              -80.2782891,26.3231208,0
+              -80.2779611,26.3042708,0
+              -80.2879612,26.3042708,0
+              -80.2934764,26.3027708,0
+              -80.2965014,26.2976538,0
+              -80.2941834,26.1958818,0
+              -80.2597208,26.1957278,0
+              -80.213432,26.1957978,0
+              -80.206265,26.1879808,0
+              -80.2034319,26.1878268,0
+              -80.1836056,26.1880578,0
+              -80.1789316,26.1898368,0
+              -80.1543841,26.1903948,0
+              -80.146294,26.1904908,0
+              -80.0917912,26.1921088,0
+              -80.0798599,26.2027368,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Upper Keys</name>
+      <description><![CDATA[Service Area: South Dade<br>FSS: Carmen Nobregas]]></description>
+      <styleUrl>#poly-1A237E-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>South Dade</value>
+        </Data>
+        <Data name="FSS">
+          <value>Carmen Nobregas</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -80.476813,25.448485,0
+              -80.476127,25.427092,0
+              -80.46205,25.36103,0
+              -80.435271,25.240908,0
+              -80.490547,25.221342,0
+              -80.474754,25.168529,0
+              -80.484024,25.137763,0
+              -80.511146,25.08367,0
+              -80.564705,25.012754,0
+              -80.651223,24.951136,0
+              -80.694825,24.91907,0
+              -80.7686378,24.8825562,0
+              -80.7468493,24.8560662,0
+              -80.7353372,24.8447097,0
+              -80.542389,24.948958,0
+              -80.472351,25.015554,0
+              -80.385489,25.082427,0
+              -80.32369,25.19121,0
+              -80.259489,25.290585,0
+              -80.23271,25.341793,0
+              -80.2152,25.386466,0
+              -80.192197,25.407246,0
+              -80.167477,25.470494,0
+              -80.166104,25.502725,0
+              -80.161641,25.534018,0
+              -80.169537,25.54486,0
+              -80.19357,25.515429,0
+              -80.3206,25.447865,0
+              -80.349096,25.448795,0
+              -80.432181,25.448795,0
+              -80.437674,25.451275,0
+              -80.454154,25.452515,0
+              -80.45999,25.449105,0
+              -80.476813,25.448485,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>West Palm - Unassigned</name>
+      <description><![CDATA[Service Area: West Palm Beach<br>FSS: Sem Peralta]]></description>
+      <styleUrl>#poly-097138-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>West Palm Beach</value>
+        </Data>
+        <Data name="FSS">
+          <value>Sem Peralta</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -81.4711117,27.0990143,0
+              -81.4517404,27.0614843,0
+              -81.4522954,27.0011243,0
+              -81.4558925,26.9979163,0
+              -81.4845568,26.9974612,0
+              -81.4844858,26.9912572,0
+              -81.4877988,26.9888442,0
+              -81.4882528,26.9793002,0
+              -81.4849308,26.9751102,0
+              -81.4851317,26.9459512,0
+              -81.5643116,26.9459952,0
+              -81.5635406,26.8583332,0
+              -81.4797506,26.8576133,0
+              -81.4799156,26.8287233,0
+              -81.4635445,26.8286973,0
+              -81.4634594,26.8213393,0
+              -81.4391702,26.8212693,0
+              -81.4392372,26.8066803,0
+              -81.4317781,26.8065843,0
+              -81.4306891,26.8052523,0
+              -81.4301751,26.8050203,0
+              -81.424661,26.8058793,0
+              -81.423527,26.8058653,0
+              -81.4039598,26.7832373,0
+              -81.4045378,26.7699573,0
+              -81.4050538,26.7686653,0
+              -81.4056658,26.7631973,0
+              -81.3864876,26.7651173,0
+              -81.3797445,26.7655023,0
+              -81.3734684,26.7696453,0
+              -81.2681743,26.7693293,0
+              -81.2713923,26.7527713,0
+              -81.2613062,26.7351423,0
+              -81.2571002,26.7311543,0
+              -81.2553841,26.6928243,0
+              -81.2225918,26.6937913,0
+              -81.2229338,26.6656133,0
+              -81.1248347,26.6667874,0
+              -81.1207986,26.4603894,0
+              -81.0239806,26.4617724,0
+              -81.0239805,26.4328004,0
+              -80.974198,26.4341074,0
+              -80.9594399,26.4048864,0
+              -80.9589278,26.3868184,0
+              -80.9254455,26.3872154,0
+              -80.876864,26.3315344,0
+              -80.8653428,26.1740794,0
+              -80.691467,26.1473835,0
+              -80.4394653,26.1461525,0
+              -80.3392142,26.1227285,0
+              -80.3399002,26.1480025,0
+              -80.2911477,26.1949915,0
+              -80.2934667,26.2967635,0
+              -80.2904417,26.3018805,0
+              -80.2849267,26.3033805,0
+              -80.2749266,26.3033815,0
+              -80.2751846,26.3225395,0
+              -80.2735565,26.3255755,0
+              -80.2655325,26.3300965,0
+              -80.2632374,26.3355865,0
+              -80.2638054,26.3474855,0
+              -80.2331281,26.3866055,0
+              -80.2333431,26.4103925,0
+              -80.2177599,26.4692295,0
+              -80.2188479,26.5144095,0
+              -80.2293641,26.5423865,0
+              -80.2447632,26.5646705,0
+              -80.2753055,26.6025235,0
+              -80.3300751,26.6347215,0
+              -80.3436543,26.6485135,0
+              -80.3603335,26.6806375,0
+              -80.3600335,26.6861585,0
+              -80.3787257,26.6868865,0
+              -80.3840477,26.6885995,0
+              -80.3884268,26.6907595,0
+              -80.4350433,26.7254255,0
+              -80.4403873,26.7266975,0
+              -80.4445534,26.7267105,0
+              -80.6046611,26.8483205,0
+              -80.6221383,26.8606855,0
+              -80.6299354,26.8660245,0
+              -80.9482819,26.9881374,0
+              -80.9894813,26.9869134,0
+              -81.0025275,26.9771214,0
+              -81.0329128,26.9769344,0
+              -81.052311,26.9697044,0
+              -81.0602061,26.9684014,0
+              -81.0836184,26.9808674,0
+              -81.1034846,26.9790334,0
+              -81.1114437,26.9748264,0
+              -81.1123327,26.9752474,0
+              -81.1242078,26.9753614,0
+              -81.1241088,26.9825494,0
+              -81.1152797,26.9962774,0
+              -81.1106727,27.0017074,0
+              -81.1060926,27.0126054,0
+              -81.1030446,27.0347944,0
+              -81.1021076,27.0441984,0
+              -81.1029306,27.0587624,0
+              -81.1057386,27.0677064,0
+              -81.1094477,27.0711464,0
+              -81.1100457,27.0739934,0
+              -81.1077417,27.0765544,0
+              -81.1063207,27.0769944,0
+              -81.1065877,27.1009414,0
+              -81.4711117,27.0990143,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Weston</name>
+      <description><![CDATA[Service Area: Hollywood<br>FSS: Joe Clendennin]]></description>
+      <styleUrl>#poly-C2185B-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>Hollywood</value>
+        </Data>
+        <Data name="FSS">
+          <value>Joe Clendennin</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -80.863066,25.890037,0
+              -80.483608,25.892585,0
+              -80.429534,25.950636,0
+              -80.431204,26.007666,0
+              -80.338468,26.007738,0
+              -80.350055,26.029484,0
+              -80.351257,26.035037,0
+              -80.353317,26.102575,0
+              -80.328769,26.102421,0
+              -80.329113,26.118914,0
+              -80.341816,26.121535,0
+              -80.442066,26.14496,0
+              -80.694065,26.146193,0
+              -80.866883,26.172848,0
+              -80.863066,25.890037,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>South Dade - Unassigned </name>
+      <description><![CDATA[Service Area: South Dade<br>FSS: Carmen Nobregas]]></description>
+      <styleUrl>#poly-1A237E-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="Service Area">
+          <value>South Dade</value>
+        </Data>
+        <Data name="FSS">
+          <value>Carmen Nobregas</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -81.177978,25.406066,0
+              -81.177292,25.398003,0
+              -81.183472,25.311132,0
+              -81.206818,25.191894,0
+              -81.115494,25.093061,0
+              -80.885468,25.084355,0
+              -80.621109,25.097414,0
+              -80.47348,25.167659,0
+              -80.489273,25.220472,0
+              -80.433998,25.240038,0
+              -80.460777,25.36016,0
+              -80.524635,25.36109,0
+              -80.558968,25.387147,0
+              -80.559654,25.451166,0
+              -80.562315,25.454264,0
+              -80.562744,25.492234,0
+              -80.559998,25.494407,0
+              -80.559998,25.498518,0
+              -80.574074,25.498446,0
+              -80.574589,25.526255,0
+              -80.566692,25.549721,0
+              -80.560169,25.55034,0
+              -80.528068,25.578679,0
+              -80.528412,25.594162,0
+              -80.57476,25.593542,0
+              -80.575104,25.760938,0
+              -80.862177,25.760252,0
+              -80.860748,25.613048,0
+              -81.051636,25.613048,0
+              -81.216431,25.471794,0
+              -81.177978,25.406066,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
