@@ -6,7 +6,7 @@ This is a simple node js based script which allows to convert KML files into Sal
 1) Create a Polygon using Google Maps (mymaps.google.com) or google earth
 2) Export the Polygon as KML file
 3) Place the KML file in the main directory
-4) Create a .env file with the following content "KML_FILE_NAME=<SampleKML.kml>"
+4) Create a .env file with the following content :-
 
 ```
 
