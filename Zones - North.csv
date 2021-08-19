@@ -49,7 +49,7 @@ Brevard - Central,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#ffc9d5,0Hh4W000000oZZ7SAM
+</kml>",#e0289f,ServiceTerritoryId
 Brevard - North,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -114,7 +114,7 @@ Brevard - North,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#17e83d,0Hh4W000000oZZ7SAM
+</kml>",#90aa0a,ServiceTerritoryId
 Brevard - South,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -157,7 +157,7 @@ Brevard - South,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#7237ba,0Hh4W000000oZZ7SAM
+</kml>",#126d00,ServiceTerritoryId
 Clermont,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -318,7 +318,7 @@ Clermont,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#40dd74,0Hh4W000000oZZ7SAM
+</kml>",#088919,ServiceTerritoryId
 Daytona - Central North,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -378,7 +378,7 @@ Daytona - Central North,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#eaf99a,0Hh4W000000oZZ7SAM
+</kml>",#7bfce9,ServiceTerritoryId
 Daytona - Central South,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -421,7 +421,7 @@ Daytona - Central South,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#87e5a6,0Hh4W000000oZZ7SAM
+</kml>",#f7be9e,ServiceTerritoryId
 Daytona - North,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -532,7 +532,7 @@ Daytona - North,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#8602f2,0Hh4W000000oZZ7SAM
+</kml>",#7ae532,ServiceTerritoryId
 Daytona - South,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -661,7 +661,7 @@ Daytona - South,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#b57817,0Hh4W000000oZZ7SAM
+</kml>",#b083ef,ServiceTerritoryId
 Daytona - Southeast,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -785,7 +785,7 @@ Daytona - Southeast,"<?xml version=""1.0"" encoding=""utf-8""?>
       </innerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#59137c,0Hh4W000000oZZ7SAM
+</kml>",#bf6a35,ServiceTerritoryId
 Gainesville - East,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -969,7 +969,7 @@ Gainesville - East,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#611ebf,0Hh4W000000oZZ7SAM
+</kml>",#b9e82c,ServiceTerritoryId
 Gainesville - North,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1069,7 +1069,7 @@ Gainesville - North,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#e0b414,0Hh4W000000oZZ7SAM
+</kml>",#6e83d8,ServiceTerritoryId
 Gainesville - West,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1132,7 +1132,7 @@ Gainesville - West,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#fce7c4,0Hh4W000000oZZ7SAM
+</kml>",#74c60f,ServiceTerritoryId
 Jacksonville - Beach,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1197,7 +1197,7 @@ Jacksonville - Beach,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#69db76,0Hh4W000000oZZ7SAM
+</kml>",#a6f77b,ServiceTerritoryId
 Jacksonville - Central,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1274,7 +1274,7 @@ Jacksonville - Central,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#9dfc62,0Hh4W000000oZZ7SAM
+</kml>",#d6942a,ServiceTerritoryId
 Jacksonville - East,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1357,7 +1357,7 @@ Jacksonville - East,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#f9c4c0,0Hh4W000000oZZ7SAM
+</kml>",#f5f779,ServiceTerritoryId
 Jacksonville - South,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1477,7 +1477,7 @@ Jacksonville - South,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#f27dae,0Hh4W000000oZZ7SAM
+</kml>",#c6475a,ServiceTerritoryId
 Jacksonville - Southeast,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1600,7 +1600,7 @@ Jacksonville - Southeast,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#26ccaa,0Hh4W000000oZZ7SAM
+</kml>",#462ca5,ServiceTerritoryId
 Jacksonville - Southwest,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1669,7 +1669,7 @@ Jacksonville - Southwest,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#11c49a,0Hh4W000000oZZ7SAM
+</kml>",#3154b2,ServiceTerritoryId
 Jacksonville - West,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1819,7 +1819,7 @@ Jacksonville - West,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#db1886,0Hh4W000000oZZ7SAM
+</kml>",#8faeef,ServiceTerritoryId
 Kissimmee,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -2018,7 +2018,7 @@ Kissimmee,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#6ed10c,0Hh4W000000oZZ7SAM
+</kml>",#ed748c,ServiceTerritoryId
 Lake Jesup,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -2148,7 +2148,7 @@ Lake Jesup,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#146277,0Hh4W000000oZZ7SAM
+</kml>",#f7a579,ServiceTerritoryId
 Ocala - East,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -2194,7 +2194,7 @@ Ocala - East,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#1ecc12,0Hh4W000000oZZ7SAM
+</kml>",#dab0f4,ServiceTerritoryId
 Ocala - North,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -2339,7 +2339,7 @@ Ocala - North,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#2de2af,0Hh4W000000oZZ7SAM
+</kml>",#46d695,ServiceTerritoryId
 Ocala - South,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -2476,7 +2476,7 @@ Ocala - South,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#0955bf,0Hh4W000000oZZ7SAM
+</kml>",#efa4a2,ServiceTerritoryId
 Ocala - West,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -2492,7 +2492,7 @@ Ocala - West,"<?xml version=""1.0"" encoding=""utf-8""?>
     <styleUrl>#myPolygonStyle</styleUrl>
     <Polygon/>
   </Placemark>
-</kml>",#d896f2,0Hh4W000000oZZ7SAM
+</kml>",#b1ed80,ServiceTerritoryId
 Orlando - East,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -2605,7 +2605,7 @@ Orlando - East,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#ef99cb,0Hh4W000000oZZ7SAM
+</kml>",#af1a44,ServiceTerritoryId
 Orlando - Northwest,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -2735,7 +2735,7 @@ Orlando - Northwest,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#ea9192,0Hh4W000000oZZ7SAM
+</kml>",#6d35b2,ServiceTerritoryId
 Orlando - Southeast,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -2881,7 +2881,7 @@ Orlando - Southeast,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#d811c1,0Hh4W000000oZZ7SAM
+</kml>",#1b7e87,ServiceTerritoryId
 Orlando - Southwest,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -3014,7 +3014,7 @@ Orlando - Southwest,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#3cb0d1,0Hh4W000000oZZ7SAM
+</kml>",#2270bf,ServiceTerritoryId
 Orlando - West,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -3093,7 +3093,7 @@ Orlando - West,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#efacdb,0Hh4W000000oZZ7SAM
+</kml>",#db6fcc,ServiceTerritoryId
 Port Canaveral,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -3138,7 +3138,7 @@ Port Canaveral,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#addff7,0Hh4W000000oZZ7SAM
+</kml>",#1dc14e,ServiceTerritoryId
 Satellite Beach,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -3173,7 +3173,7 @@ Satellite Beach,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#d4f94d,0Hh4W000000oZZ7SAM
+</kml>",#bc0974,ServiceTerritoryId
 St. Cloud,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -3244,7 +3244,7 @@ St. Cloud,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#2ad1f7,0Hh4W000000oZZ7SAM
+</kml>",#c0c8f7,ServiceTerritoryId
 Ocala - Southeast,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -3328,7 +3328,7 @@ Ocala - Southeast,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#f9c0f0,0Hh4W000000oZZ7SAM
+</kml>",#ff5400,ServiceTerritoryId
 Jacksonville - North,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -3405,4 +3405,4 @@ Jacksonville - North,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#71fc71,0Hh4W000000oZZ7SAM
+</kml>",#b2fff7,ServiceTerritoryId

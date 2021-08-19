@@ -48,7 +48,7 @@ Big Pine Key,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#e3ff82,0Hh4W000000oZZ7SAM
+</kml>",#c9f9a9,ServiceTerritoryId
 Cooper City,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -95,7 +95,7 @@ Cooper City,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#8e7fef,0Hh4W000000oZZ7SAM
+</kml>",#78e076,ServiceTerritoryId
 Davie,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -141,7 +141,7 @@ Davie,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#e87db9,0Hh4W000000oZZ7SAM
+</kml>",#91f7f3,ServiceTerritoryId
 Delray Beach / Boynton Beach,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -190,7 +190,7 @@ Delray Beach / Boynton Beach,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#51a81a,0Hh4W000000oZZ7SAM
+</kml>",#f2d0b0,ServiceTerritoryId
 Ft. Lauderdale - Central,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -224,7 +224,7 @@ Ft. Lauderdale - Central,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#dab3f2,0Hh4W000000oZZ7SAM
+</kml>",#8189d1,ServiceTerritoryId
 Ft. Lauderdale - North,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -255,7 +255,7 @@ Ft. Lauderdale - North,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#f2db8a,0Hh4W000000oZZ7SAM
+</kml>",#0a6887,ServiceTerritoryId
 Ft. Lauderdale - South,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -291,7 +291,7 @@ Ft. Lauderdale - South,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#d33bb5,0Hh4W000000oZZ7SAM
+</kml>",#e54eed,ServiceTerritoryId
 Ft. Lauderdale - West,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -327,7 +327,7 @@ Ft. Lauderdale - West,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#a6fceb,0Hh4W000000oZZ7SAM
+</kml>",#ae77d6,ServiceTerritoryId
 Hialeah - North,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -368,7 +368,7 @@ Hialeah - North,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#6d4aba,0Hh4W000000oZZ7SAM
+</kml>",#cc2f2c,ServiceTerritoryId
 Hialeah - South,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -420,7 +420,7 @@ Hialeah - South,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#75f979,0Hh4W000000oZZ7SAM
+</kml>",#3cbdd1,ServiceTerritoryId
 Hollywood - East,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -455,7 +455,7 @@ Hollywood - East,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#8bfc53,0Hh4W000000oZZ7SAM
+</kml>",#34eaed,ServiceTerritoryId
 Homestead - North,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -471,7 +471,7 @@ Homestead - North,"<?xml version=""1.0"" encoding=""utf-8""?>
     <styleUrl>#myPolygonStyle</styleUrl>
     <Polygon/>
   </Placemark>
-</kml>",#8178e2,0Hh4W000000oZZ7SAM
+</kml>",#33e061,ServiceTerritoryId
 Homestead - South,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -528,7 +528,7 @@ Homestead - South,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#0aad01,0Hh4W000000oZZ7SAM
+</kml>",#fcc7d9,ServiceTerritoryId
 Jupiter / Palm Beach Gardens,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -605,7 +605,7 @@ Jupiter / Palm Beach Gardens,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#bde567,0Hh4W000000oZZ7SAM
+</kml>",#dcccff,ServiceTerritoryId
 Kendall - Central,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -656,7 +656,7 @@ Kendall - Central,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#8f3eb7,0Hh4W000000oZZ7SAM
+</kml>",#c9188e,ServiceTerritoryId
 Kendall - East,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -724,7 +724,7 @@ Kendall - East,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#1f6682,0Hh4W000000oZZ7SAM
+</kml>",#ccf8ff,ServiceTerritoryId
 Kendall - West,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -761,7 +761,7 @@ Kendall - West,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#c2dd6a,0Hh4W000000oZZ7SAM
+</kml>",#4958cc,ServiceTerritoryId
 Key West,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -805,7 +805,7 @@ Key West,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#c071e8,0Hh4W000000oZZ7SAM
+</kml>",#7bce37,ServiceTerritoryId
 Lake Worth / West Palm Beach,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -861,7 +861,7 @@ Lake Worth / West Palm Beach,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#f7aded,0Hh4W000000oZZ7SAM
+</kml>",#7ee9f7,ServiceTerritoryId
 Miami - Beach,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -902,7 +902,7 @@ Miami - Beach,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#35dd33,0Hh4W000000oZZ7SAM
+</kml>",#fca4b2,ServiceTerritoryId
 Miami - North,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -944,7 +944,7 @@ Miami - North,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#9e0b2a,0Hh4W000000oZZ7SAM
+</kml>",#8c220f,ServiceTerritoryId
 Miami - South,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1002,7 +1002,7 @@ Miami - South,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#d877e5,0Hh4W000000oZZ7SAM
+</kml>",#f7bd96,ServiceTerritoryId
 Pembrook Pines - East,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1046,7 +1046,7 @@ Pembrook Pines - East,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#5afcb3,0Hh4W000000oZZ7SAM
+</kml>",#b6eaef,ServiceTerritoryId
 Pembrook Pines - West,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1084,7 +1084,7 @@ Pembrook Pines - West,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#44c954,0Hh4W000000oZZ7SAM
+</kml>",#b3d347,ServiceTerritoryId
 Pompano Beach / Boca Raton,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1138,7 +1138,7 @@ Pompano Beach / Boca Raton,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#65c13e,0Hh4W000000oZZ7SAM
+</kml>",#ffc672,ServiceTerritoryId
 Upper Keys,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1196,7 +1196,7 @@ Upper Keys,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#48ed40,0Hh4W000000oZZ7SAM
+</kml>",#dae266,ServiceTerritoryId
 West Palm - Unassigned,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1326,7 +1326,7 @@ West Palm - Unassigned,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#0a4a93,0Hh4W000000oZZ7SAM
+</kml>",#f4adb8,ServiceTerritoryId
 Weston,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1365,7 +1365,7 @@ Weston,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#070faf,0Hh4W000000oZZ7SAM
+</kml>",#a492e8,ServiceTerritoryId
 South Dade - Unassigned ,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1420,4 +1420,4 @@ South Dade - Unassigned ,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#96f7c3,0Hh4W000000oZZ7SAM
+</kml>",#f922a7,ServiceTerritoryId

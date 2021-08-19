@@ -73,7 +73,7 @@ Clearwater,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#ab71c6,0Hh4W000000oZZ7SAM
+</kml>",#f7da83,ServiceTerritoryId
 Brandon - South,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -134,7 +134,7 @@ Brandon - South,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#8914e8,0Hh4W000000oZZ7SAM
+</kml>",#b6cc4d,ServiceTerritoryId
 Bonita Springs,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -221,7 +221,7 @@ Bonita Springs,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#fff375,0Hh4W000000oZZ7SAM
+</kml>",#ef4523,ServiceTerritoryId
 Crystal River ,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -402,7 +402,7 @@ Crystal River ,"<?xml version=""1.0"" encoding=""utf-8""?>
       </innerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#b75800,0Hh4W000000oZZ7SAM
+</kml>",#65d884,ServiceTerritoryId
 Crystal River - West,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -464,7 +464,7 @@ Crystal River - West,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#38f7ca,0Hh4W000000oZZ7SAM
+</kml>",#ea7909,ServiceTerritoryId
 Ft. Myers - Central,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -541,7 +541,7 @@ Ft. Myers - Central,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#99ea81,0Hh4W000000oZZ7SAM
+</kml>",#fcc2eb,ServiceTerritoryId
 Ft. Myers - East,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -638,7 +638,7 @@ Ft. Myers - East,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#7fbc1e,0Hh4W000000oZZ7SAM
+</kml>",#f49b2e,ServiceTerritoryId
 Ft. Myers - North,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -714,7 +714,7 @@ Ft. Myers - North,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#e8a67a,0Hh4W000000oZZ7SAM
+</kml>",#f2a7d9,ServiceTerritoryId
 Ft. Myers - South,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -763,7 +763,7 @@ Ft. Myers - South,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#f9baa7,0Hh4W000000oZZ7SAM
+</kml>",#efb7ae,ServiceTerritoryId
 Ft. Pierce - Southeast,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -819,7 +819,7 @@ Ft. Pierce - Southeast,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#f9c2ae,0Hh4W000000oZZ7SAM
+</kml>",#a5cc33,ServiceTerritoryId
 Harlem Heights,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -889,7 +889,7 @@ Harlem Heights,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#5c30b5,0Hh4W000000oZZ7SAM
+</kml>",#aee27c,ServiceTerritoryId
 Highlands - East,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -975,7 +975,7 @@ Highlands - East,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#efa08b,0Hh4W000000oZZ7SAM
+</kml>",#fce1b5,ServiceTerritoryId
 Highlands - West,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1064,7 +1064,7 @@ Highlands - West,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#f9af84,0Hh4W000000oZZ7SAM
+</kml>",#beebf7,ServiceTerritoryId
 Lakeland - East,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1202,7 +1202,7 @@ Lakeland - East,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#efa7ad,0Hh4W000000oZZ7SAM
+</kml>",#c2f7a5,ServiceTerritoryId
 Lakeland - North,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1274,7 +1274,7 @@ Lakeland - North,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#28ff7a,0Hh4W000000oZZ7SAM
+</kml>",#3c8ee0,ServiceTerritoryId
 Lakeland - South,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1346,7 +1346,7 @@ Lakeland - South,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#dd7b4d,0Hh4W000000oZZ7SAM
+</kml>",#e8bdfc,ServiceTerritoryId
 Naples,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1378,7 +1378,7 @@ Naples,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#c62540,0Hh4W000000oZZ7SAM
+</kml>",#ceffb2,ServiceTerritoryId
 Port Charlotte,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1437,7 +1437,7 @@ Port Charlotte,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#ccdaff,0Hh4W000000oZZ7SAM
+</kml>",#e448f2,ServiceTerritoryId
 Sarasota - Central,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1508,7 +1508,7 @@ Sarasota - Central,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#745ac4,0Hh4W000000oZZ7SAM
+</kml>",#d88b50,ServiceTerritoryId
 Sarasota - Central South,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1555,7 +1555,7 @@ Sarasota - Central South,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#5b6cc1,0Hh4W000000oZZ7SAM
+</kml>",#8ffce4,ServiceTerritoryId
 Sarasota - North,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1637,7 +1637,7 @@ Sarasota - North,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#4750a5,0Hh4W000000oZZ7SAM
+</kml>",#1daf03,ServiceTerritoryId
 Sarasota - South,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1716,7 +1716,7 @@ Sarasota - South,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#876ccc,0Hh4W000000oZZ7SAM
+</kml>",#34b4db,ServiceTerritoryId
 South Venice,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1773,7 +1773,7 @@ South Venice,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#be19d1,0Hh4W000000oZZ7SAM
+</kml>",#0ecea8,ServiceTerritoryId
 St. Pete ,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1859,7 +1859,7 @@ St. Pete ,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#4dccb4,0Hh4W000000oZZ7SAM
+</kml>",#d15808,ServiceTerritoryId
 Tampa - East,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1941,7 +1941,7 @@ Tampa - East,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#80f291,0Hh4W000000oZZ7SAM
+</kml>",#bef779,ServiceTerritoryId
 Tampa - North,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -1957,7 +1957,7 @@ Tampa - North,"<?xml version=""1.0"" encoding=""utf-8""?>
     <styleUrl>#myPolygonStyle</styleUrl>
     <Polygon/>
   </Placemark>
-</kml>",#fcbfd4,0Hh4W000000oZZ7SAM
+</kml>",#8b00ef,ServiceTerritoryId
 Tampa - Northeast,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -2018,7 +2018,7 @@ Tampa - Northeast,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#06536d,0Hh4W000000oZZ7SAM
+</kml>",#ed1acd,ServiceTerritoryId
 Tampa - South,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -2078,7 +2078,7 @@ Tampa - South,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#1cfffb,0Hh4W000000oZZ7SAM
+</kml>",#c370d8,ServiceTerritoryId
 Tampa - West,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -2094,7 +2094,7 @@ Tampa - West,"<?xml version=""1.0"" encoding=""utf-8""?>
     <styleUrl>#myPolygonStyle</styleUrl>
     <Polygon/>
   </Placemark>
-</kml>",#c0ff44,0Hh4W000000oZZ7SAM
+</kml>",#fcd599,ServiceTerritoryId
 Ft. Pierce - North/Okeechobee,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -2206,7 +2206,7 @@ Ft. Pierce - North/Okeechobee,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#5fbbce,0Hh4W000000oZZ7SAM
+</kml>",#00721a,ServiceTerritoryId
 Tampa - New,"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://www.opengis.net/kml/2.2"">
   <Style id=""myPolygonStyle"">
@@ -2245,4 +2245,4 @@ Tampa - New,"<?xml version=""1.0"" encoding=""utf-8""?>
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-</kml>",#ffc1bc,0Hh4W000000oZZ7SAM
+</kml>",#64ef6d,ServiceTerritoryId
