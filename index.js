@@ -56,7 +56,7 @@ fs.readFile('./'+process.env.KML_FILE_NAME, 'utf8' , (err, data) => {
                     FSLPolygonRow.push('');
                 }
                 FSLPolygonRow.push(randomColor());
-                FSLPolygonRow.push('0Hh4W000000oZZ7SAM');
+                FSLPolygonRow.push('ServiceTerritoryId');
                 FSLPolygonsList.push(FSLPolygonRow);
             });
           }
