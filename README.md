@@ -14,7 +14,7 @@ This is a simple node js based script which allows to convert KML files into Sal
   
 ```
 5) Run node index.js
-6) A CSV is generated which can be populated with ServiceTerritoryId and uplaoded to Salesforce Polygon object to be used with Salesforce Field Service
+6) A CSV is generated which can be populated with ServiceTerritoryId and uploaded to Salesforce Polygon object to be used with Salesforce Field Service
 
 
 ## Contributing
